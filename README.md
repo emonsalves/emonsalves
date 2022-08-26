@@ -4,8 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emonsalves&label=Profile%20views&color=0e75b6&style=flat" alt="emonsalves" /> </p>
 
-<div align="center"> - 🔭 I’m currently working on **Desafio Latam**</div>
-<div align="center">- 🌱 I’m currently learning **HTML CSS BOOTSTRAP GITHUB JAVASCRIPT**</div>
+<div align="center"> - 🔭 I’m currently studying on **Desafio Latam**</div>
+<div align="center">- 🌱 I’m currently learning **HTML CSS BOOTSTRAP GITHUB JAVASCRIPT REACT**</div>
 
 <h3 align="center">Connect with me: ingeniero.monsalves@gmail.com </h3>
 <p align="center">
