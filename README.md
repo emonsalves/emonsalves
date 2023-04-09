@@ -1,4 +1,3 @@
-![](https://github.com/emonsalves/gift/blob/main/Monsalves.gif)
 <h1 align="center">Hellou 👋, I'm Enzo Monsalves</h1>
 <h3 align="center">A developer from Chile</h3>
 
