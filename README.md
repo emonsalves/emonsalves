@@ -5,8 +5,8 @@
 
 <div align="center"> - 🌱 ALL DAYS SOME NEW TO LEARN 🌳 </div>
 
-<h3 align="center"> Connect by email : <a href="mailto:ingeniero.monsalves@gmail.com?Subject=Connect%20by%20Github"> 📧 </a>  </h3>
-
+<h3 align="center"> Connect with me : <a href="mailto:ingeniero.monsalves@gmail.com?Subject=Connect%20by%20Github"> 📧 </a>  </h3>
+<hr>
 <p align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
@@ -27,7 +27,7 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 </p>
-
+<hr>
 <div align="center">
 <a href="#"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emonsalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
@@ -45,3 +45,4 @@
   
 </a>
 <div>
+<hr>
